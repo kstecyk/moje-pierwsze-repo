@@ -23,3 +23,4 @@ Projekt wykorzystuje:
 1. Sklonuj repozytorium:
    ```bash
    git clone https://github.com/twoja-nazwa-uzytkownika/moje-pierwsze-repo.git
+2. test
