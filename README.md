@@ -1,3 +1,4 @@
+# Brak konfliktu2
 # moje-pierwsze-repo
 
 To jest moje pierwsze repozytorium na GitHubie! 🎉
