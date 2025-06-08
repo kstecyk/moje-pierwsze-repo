@@ -28,4 +28,4 @@ Projekt wykorzystuje:
 
 3. wpis
 
-4. wpis
+4. wpis-konflikt
